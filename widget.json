@@ -1,13 +1,13 @@
 {
 	"id": "jumper.steps",
 	"name": "jumper.steps",
-	"description" : "",
-	"author": "",
+	"description" : "Alloy widget similar to the jquery slides",
+	"author": "Jumper -- neerooze@gmail.com",
 	"version": "1.0",
 	"copyright":"Copyright (c) 2015",
 	"license":"Public Domain",
 	"min-alloy-version": "1.0",
 	"min-titanium-version":"2.1",
-	"tags":"",
+	"tags":"slides, steps, jumper",
 	"platforms":"android,ios"
 }
