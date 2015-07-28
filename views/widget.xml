@@ -1,0 +1,18 @@
+<Alloy>
+	<View id="widgetView" height="40" class="cCard" top="0" left="2.5%" width="95%">
+       	<View top="0" id="stepHolder" width="100%" zIndex="3" height="20" top="10" class="hCard" >
+      
+       	</View>
+        
+    </View>
+    <View top="0" id="slidesContent" class="cCard" width="100%">
+   
+    </View>
+	
+	<View width="80%" class="hCard" height="50">
+		<Label class="w-100 fs10 r-0" id="prev">Previous</Label>
+		<Label class="w-100 fs10 l-0" id="next">Next</Label>
+		
+	</View>
+	
+</Alloy>
