@@ -9,6 +9,7 @@ A Twitter Bootstrap inspired framework for Appcelerator Titanium (Alloy)
 1. https://github.com/TNuzzi/wriststrap
 
 #uses
+```
 	<Widget height="300" top="0" id="newSteps" src="jumper.steps">
 		<View width="100%" top="0" height="250" backgroundColor="red">
 	    	<Label left="40%" title="1" class="w-20% h-20 text-center" right="0"    backgroundColor="#333" color="#FFF">1</Label>
@@ -24,7 +25,7 @@ A Twitter Bootstrap inspired framework for Appcelerator Titanium (Alloy)
 	    </View>
 	  
 	</Widget>
-
+```
 #preview
 <img width="300" src="http://nirajmaharjan.com.np/freefiles/jumper.steps.png" />
 
